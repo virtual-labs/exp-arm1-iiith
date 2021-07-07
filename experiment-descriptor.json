@@ -29,7 +29,7 @@
     },
     {
       "target": "assignment.html",
-      "source": "assignmet.md",
+      "source": "assignment.md",
       "label": "Assignment",
       "unit-type": "task",
       "content-type": "text"
